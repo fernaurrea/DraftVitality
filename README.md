@@ -1,0 +1,2 @@
+# DraftVitality
+Example grails project
